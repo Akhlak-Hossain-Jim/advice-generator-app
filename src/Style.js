@@ -3,9 +3,9 @@ import styled from "styled-components";
 export const Style = styled.div`
   max-width: 1440px;
   margin: 0 auto;
-  min-height: 810px;
+  min-height: 100vh;
   background-color: #202632;
-  padding: 121px 16px;
+  padding: 20px 16px;
   display: flex;
   align-items: center;
   justify-content: center;
